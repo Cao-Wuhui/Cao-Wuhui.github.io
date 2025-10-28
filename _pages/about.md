@@ -37,7 +37,7 @@ My research interests lie in software systems, security, and large language mode
 - *2019.09 - 2023.07*, Bachelor, Computer Science and Technology (Honor), Shenzhen University.
 
 # 💼 Experiences
-- *2025.06 - 2025.08*, Internship, Huawei Technologies Co., Ltd.
+- *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd.
 
 # 🏅 Honors
 - [2024] Huawei Developer of the Year – Pioneer Project Award
