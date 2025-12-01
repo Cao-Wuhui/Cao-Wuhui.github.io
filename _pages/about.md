@@ -37,15 +37,16 @@ My research interests lie in software systems, security, and large language mode
 - *2019.09 - 2023.07*, Bachelor, Computer Science and Technology (Honor), Shenzhen University.
 
 # 💼 Experiences
-- *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd. (Outstanding Intern, Top 20%)
+- *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd. *(Outstanding Intern, Top 20%)*
 
 # 🏅 Honors
+- [2025/2024/2023] SZU Master's Academic Scholarship: Special Class (2023), First Class (2024, 2025)
 - [2024] Huawei Developer of the Year – Pioneer Project Award
 - [2024/2023/2022] Ministry of Education – Huawei Intelligent Base "Future Star" Scholarship
-- [2023] openEuler Open Source Contribution Elite Scholarship (2022 cohort, only 12 awardees worldwide)
+- [2023] openEuler Open Source Contribution Elite Scholarship *(2022 cohort, only 12 awardees worldwide)*
 - [2023] Top 100 Outstanding Undergraduate Thesis (Design), Shenzhen University
 - [2023] Outstanding Undergraduate Graduate, Shenzhen University
-- [2023] Star of SZU Scholarship, Shenzhen University
+- [2023] Star of SZU Scholarship, Shenzhen University *(2022 cohort, top 1%)*
 - [2023] Innovation & Entrepreneurship Star, First Prize, Shenzhen University
 
 # 🏆 Competition Awards
