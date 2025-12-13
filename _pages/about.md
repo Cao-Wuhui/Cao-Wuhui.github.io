@@ -41,7 +41,7 @@ My research interests lie in software systems, security, and large language mode
 
 # 🏅 Honors
 - [2025/2024/2023] SZU Master's Academic Scholarship: Special Class (2023), First Class (2024, 2025)
-- [2024] Huawei Developer of the Year – Pioneer Project Award
+- [2024] Huawei Developer of the Year – Pioneer Project Award *(2024 cohort, only 15 awardees worldwide)*
 - [2024/2023/2022] Ministry of Education – Huawei Intelligent Base "Future Star" Scholarship
 - [2023] openEuler Open Source Contribution Elite Scholarship *(2022 cohort, only 12 awardees worldwide)*
 - [2023] Top 100 Outstanding Undergraduate Thesis (Design), Shenzhen University
