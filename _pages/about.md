@@ -19,9 +19,7 @@ redirect_from:
 
 
 # 👋 About Me
-Hi, I’m Yixuan Cao. I’m pursuing my B.S. (2019–2023) and M.S. (2023–2026, expected) at the College of Computer Science and Software Engineering, Shenzhen University. I am advised by [Yuhong Feng](https://scholar.google.com/citations?user=29WXQ_sAAAAJ) and [Xu Wang](https://scholar.google.com/citations?user=XNDHhIEAAAAJ).
-
-In 2024, I was selected as a [Huawei Developer Advocate](https://developer.huawei.com/home/program/advocates/member/7f07f1011f7d48b0bc989f8712919d79).
+Hi, I’m Yixuan Cao. I earned my B.S. (2019–2023) and am currently pursuing my M.S. (2023–2026, expected) at the College of Computer Science and Software Engineering, Shenzhen University. I am advised by [Yuhong Feng](https://scholar.google.com/citations?user=29WXQ_sAAAAJ) and [Xu Wang](https://scholar.google.com/citations?user=XNDHhIEAAAAJ). I was selected as a [Huawei Developer Advocate](https://developer.huawei.com/home/program/advocates/member/7f07f1011f7d48b0bc989f8712919d79) in 2024 and a [Huawei Cloud Student Developer Advocate](https://developer.huaweicloud.com/program/hcsd/personal?applicationId=046f0ef1ac31471f84b97acadc709be5) in 2025.
 
 My research interests lie in software systems, security, and large language models. I am also a contributor to the [Linux kernel](https://www.kernel.org/) and [LLVM](https://llvm.org/) communities.
 
@@ -41,7 +39,7 @@ My research interests lie in software systems, security, and large language mode
 
 # 🏅 Honors
 - [2025/2024/2023] SZU Master's Academic Scholarship: Special Class (2023), First Class (2024, 2025)
-- [2024] Huawei Developer of the Year – Pioneer Project Award *(2024 cohort, only 15 awardees worldwide)*
+- [2024] Huawei Developer of the Year – Pioneer Project Award
 - [2024/2023/2022] Ministry of Education – Huawei Intelligent Base "Future Star" Scholarship
 - [2023] openEuler Open Source Contribution Elite Scholarship *(2022 cohort, only 12 awardees worldwide)*
 - [2023] Top 100 Outstanding Undergraduate Thesis (Design), Shenzhen University
