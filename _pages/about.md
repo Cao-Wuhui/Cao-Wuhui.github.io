@@ -30,6 +30,8 @@ My research interests lie in software systems, security, and large language mode
 - Yuhong Feng<sup>†</sup>, Fangcao Jian, **Yixuan Cao**, Xiaobin Jian, Jia Wang, Haiyue Feng, Chunyan Miao. Efficient Candidate-Free R-S Set Similarity Joins with Filter-and-Verification Trees on MapReduce. Preprint, 2025. [paper](https://doi.org/10.48550/ARXIV.2506.03893)
 - Yuhong Feng, Haoran Li<sup>†</sup>, **Yixuan Cao**, Yufeng Wang, Haiyue Feng. CRABS-former: CRoss-Architecture Binary Code Similarity Detection based on Transformer. Proceedings of the 15th Asia-Pacific Symposium on Internetware, 2024. [paper](https://doi.org/10.1145/3671016.3671390)
 
+*\* Equal contribution. † Corresponding author.*
+
 # 📖 Educations
 - *2023.09 - 2026.07 (now)*, Master, Computer Science and Technology, Shenzhen University.
 - *2019.09 - 2023.07*, Bachelor, Computer Science and Technology (Honor), Shenzhen University.
