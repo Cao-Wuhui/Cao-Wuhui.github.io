@@ -62,7 +62,7 @@ My research interests lie in software systems, security, and large language mode
 - Linux kernel: [linux-next authored commits](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=caoyixuan2019)
 - LLVM: [LLVM pull requests](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3ACao-Wuhui)
 
-# 🐛 Vulnerability Disclosures
+# 🐛 CVE Disclosures
 - CVE-2025-69720: Discovered and responsibly disclosed a stack-based buffer overflow vulnerability in GNU ncurses (CVE reserved).
 
 # 📰 Reports
