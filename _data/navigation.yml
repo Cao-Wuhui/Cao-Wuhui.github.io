@@ -14,5 +14,7 @@ main:
     url: "/#-competition-awards"
   - title: "Open Source Contributions"
     url: "/#-open-source-contributions"
+  - title: "Vulnerability Disclosures"
+    url: "/#-vulnerability-disclosures"
   - title: "Reports"
     url: "/#-reports"
