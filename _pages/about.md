@@ -65,6 +65,9 @@ My research interests lie in software systems, security, and large language mode
 # 🐛 CVE Disclosures
 - CVE-2025-69720: Discovered and responsibly disclosed a stack-based buffer overflow vulnerability in GNU ncurses (CVE reserved).
 
+*More vulnerability disclosures are pending due to responsible disclosure timelines.
+Stay tuned.*
+
 # 📰 Reports
 - [02/2024] [Student Feature | Yixuan Cao: Be Your Own Leader and Care for Others](https://mp.weixin.qq.com/s/bH_c5B2hyO-gAi1lKpiijw) <br>
   WeChat official account of the College of Computer Science and Software Engineering, Shenzhen University, with about 3,000 views.
