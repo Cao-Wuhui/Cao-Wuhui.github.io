@@ -12,8 +12,6 @@ main:
     url: "/#-honors"
   - title: "Competition Awards"
     url: "/#-competition-awards"
-  - title: "Open Source Contributions"
-    url: "/#-open-source-contributions"
   - title: "CVE Disclosures"
     url: "/#-cve-disclosures"
   - title: "Reports"
