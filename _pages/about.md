@@ -73,3 +73,9 @@ Stay tuned.*
   WeChat official account of the College of Computer Science and Software Engineering, Shenzhen University, with about 3,000 views.
 - [11/2022] [My Story with the Intelligent Base](https://www.huawei.com/cn/huaweitech/industry-ecosystem/ascend-ai-developers) <br>
   Huawei official website.
+
+# 🌍 Visiting Record
+
+<div style="width: 400px; margin: 0 auto;">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=l3UsKXXGpPWF-Pnbz4u6lLHStPnv8vHiVVCeCTWg-Wo&cl=ffffff&w=a"></script>
+</div>
