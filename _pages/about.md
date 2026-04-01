@@ -72,6 +72,8 @@ Stay tuned.*
 
 # 🌍 Visiting Record
 
-<div style="width: 400px; margin: 0 auto;">
+<div style="width: 600px; margin: 0 auto;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=l3UsKXXGpPWF-Pnbz4u6lLHStPnv8vHiVVCeCTWg-Wo&cl=ffffff&w=a"></script>
 </div>
+
+<br/>
