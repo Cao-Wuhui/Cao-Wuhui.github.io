@@ -59,7 +59,7 @@ My research interests lie in software systems, security, and large language mode
 - [2020] National Undergraduate Mathematics Competition (Non-Mathematics Major), First Prize
 
 # 🐛 CVE Disclosures
-- [CVE-2025-69720](https://www.cve.org/CVERecord?id=CVE-2025-69720): Discovered and responsibly disclosed a stack-based buffer overflow vulnerability in GNU ncurses. [advisory](https://github.com/Cao-Wuhui/CVE-2025-69720)
+- [CVE-2025-69720](https://www.cve.org/CVERecord?id=CVE-2025-69720): Stack-based buffer overflow in GNU ncurses. [advisory](https://github.com/Cao-Wuhui/CVE-2025-69720)
 
 *More vulnerability disclosures are pending due to responsible disclosure timelines.
 Stay tuned.*
