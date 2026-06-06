@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👋 About Me
-Hi, I’m Yixuan Cao. I earned my B.S. (2019–2023) and am currently pursuing my M.S. (2023–2026, expected) at the College of Computer Science and Software Engineering, Shenzhen University. I am advised by [Yuhong Feng](https://scholar.google.com/citations?user=29WXQ_sAAAAJ) and [Xu Wang](https://scholar.google.com/citations?user=XNDHhIEAAAAJ). I was selected as a [Huawei Developer Advocate](https://developer.huawei.com/home/program/advocates/member/7f07f1011f7d48b0bc989f8712919d79) in 2024 and a [Huawei Cloud Student Developers (HCSD) Campus Ambassador](https://developer.huaweicloud.com/program/hcsd/personal?applicationId=046f0ef1ac31471f84b97acadc709be5) in 2025.
+Hi, I’m Yixuan Cao. I will join the [School of Computer Science](https://cs.nju.edu.cn/cs_en/main.htm) at Nanjing University as a Ph.D. student in Fall 2026, advised by [Yanyan Jiang](https://ics.nju.edu.cn/~jyy). Previously, I earned my B.S. and M.S. (2019–2026) at the College of Computer Science and Software Engineering, Shenzhen University, advised by [Yuhong Feng](https://scholar.google.com/citations?user=29WXQ_sAAAAJ) and [Xu Wang](https://scholar.google.com/citations?user=XNDHhIEAAAAJ). I was selected as a [Huawei Developer Advocate](https://developer.huawei.com/home/program/advocates/member/7f07f1011f7d48b0bc989f8712919d79) in 2024 and a [Huawei Cloud Student Developers (HCSD) Campus Ambassador](https://developer.huaweicloud.com/program/hcsd/personal?applicationId=046f0ef1ac31471f84b97acadc709be5) in 2025.
 
 My research interests lie in software engineering, security, and large language models. I am also a contributor to the [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=caoyixuan2019) and [LLVM](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3ACao-Wuhui) communities.
 
@@ -33,7 +33,8 @@ My research interests lie in software engineering, security, and large language 
 *\* Equal contribution. † Corresponding author.*
 
 # 📖 Educations
-- *2023.09 - 2026.07 (now)*, Master, Computer Science and Technology, Shenzhen University.
+- *2026.09 - (incoming)*, Ph.D., Computer Science and Technology, Nanjing University.
+- *2023.09 - 2026.07*, Master, Computer Science and Technology, Shenzhen University.
 - *2019.09 - 2023.07*, Bachelor, Computer Science and Technology (Honor), Shenzhen University.
 
 # 💼 Experiences
