@@ -52,7 +52,7 @@ My research interests broadly span systems and software. Recently, I have been e
 # 🏅 Honors & Awards
 **Personal Honors**
 - [2024] Huawei Developer of the Year – Pioneer Project Award *(only 15 awardees worldwide)*
-- [2023] Top 100 Outstanding Undergraduate Thesis (Design), Shenzhen University
+- [2023] Top 100 Outstanding Undergraduate Thesis (Design), Shenzhen University *(96 of 6,615 graduates)*
 - [2023] Outstanding Undergraduate Graduate, Shenzhen University
 
 **Scholarship**
