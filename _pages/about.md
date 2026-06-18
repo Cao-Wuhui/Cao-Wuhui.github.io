@@ -41,10 +41,13 @@ My research interests broadly span systems and software. Recently, I have been e
 - *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd. *(Outstanding Intern, Top 20%)*
 
 # 👨‍🏫 Teaching
-- *2026 Spring*, Instructor, Java Programming, [College of Continuing Education](https://en.szu.edu.cn/info/1017/1014.htm), Shenzhen University.
-- *2023 Fall, 2024 Spring, 2026 Spring*, Teaching Assistant, Systems Programming (Instructor: Prof. Yuhong Feng), College of Computer Science and Software Engineering, Shenzhen University.
-- *2023 Spring*, Teaching Assistant, Design and Analysis of Algorithms (Instructor: Prof. [Xuan Yang](https://scholar.google.com/citations?user=W4JClUYAAAAJ)), College of Computer Science and Software Engineering, Shenzhen University.
-- *2022 Fall*, Teaching Assistant, Computer Systems (3) (Instructor: Prof. Yuhong Feng), College of Computer Science and Software Engineering, Shenzhen University.
+**Instructor**
+- Java Programming, College of Continuing Education, Shenzhen University (Spring 2026)
+
+**Teaching Assistant**
+- Systems Programming, College of Computer Science and Software Engineering, Shenzhen University (2023 Fall, 2024 Spring, 2026 Spring)
+- Computer Systems, College of Computer Science and Software Engineering, Shenzhen University (2022 Fall)
+- Design and Analysis of Algorithms, College of Computer Science and Software Engineering, Shenzhen University (2023 Spring)
 
 # 🏅 Honors
 - [2025/2024/2023] SZU Master's Academic Scholarship: Special Class (2023), First Class (2024, 2025)
