@@ -46,8 +46,9 @@ My research interests broadly span systems and software. Recently, I have been e
 
 **Teaching Assistant**
 - Systems Programming, College of Computer Science and Software Engineering, Shenzhen University (2023 Fall, 2024 Spring, 2026 Spring)
-- Computer Systems, College of Computer Science and Software Engineering, Shenzhen University (2022 Fall)
 - Design and Analysis of Algorithms, College of Computer Science and Software Engineering, Shenzhen University (2023 Spring)
+- Computer Systems, College of Computer Science and Software Engineering, Shenzhen University (2022 Fall)
+
 
 # 🏅 Honors & Awards
 **Personal Honors**
