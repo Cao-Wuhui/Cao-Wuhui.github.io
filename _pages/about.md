@@ -49,7 +49,8 @@ My research interests broadly span systems and software. Recently, I have been e
 - Computer Systems, College of Computer Science and Software Engineering, Shenzhen University (2022 Fall)
 - Design and Analysis of Algorithms, College of Computer Science and Software Engineering, Shenzhen University (2023 Spring)
 
-# 🏅 Honors
+# 🏅 Honors & Awards
+**Honors**
 - [2025/2024/2023] SZU Master's Academic Scholarship: Special Class (2023), First Class (2024, 2025)
 - [2024] Huawei Developer of the Year – Pioneer Project Award *(only 15 awardees worldwide)*
 - [2024/2023/2022] Ministry of Education – Huawei Intelligent Base "Future Star" Scholarship
@@ -59,7 +60,7 @@ My research interests broadly span systems and software. Recently, I have been e
 - [2023] Star of SZU Scholarship, Shenzhen University *(top 1%)*
 - [2023] Innovation & Entrepreneurship Star, First Prize, Shenzhen University
 
-# 🏆 Competition Awards
+**Competition Awards**
 - [2024] China International College Students' Innovation Competition, Guangdong Provincial Silver Award
 - [2024] Huawei Software Elite Challenge 2024, Guangdong–Hong Kong–Macao Regional Second Prize
 - [2023] Lanqiao Cup Programming Contest (Java Software Development), National Finals Second Prize
