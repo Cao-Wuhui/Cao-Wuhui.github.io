@@ -69,7 +69,7 @@ My research interests broadly span systems and software. Recently, I have been e
 - [2021] Mathematical Contest in Modeling (MCM/ICM), Honorable Mention
 - [2020] National Undergraduate Mathematics Competition (Non-Mathematics Major), First Prize
 
-# 🐛 CVE Disclosures
+# 🐛 CVEs
 - [CVE-2025-69720](https://www.cve.org/CVERecord?id=CVE-2025-69720): Stack-based buffer overflow in GNU ncurses. [advisory](https://github.com/Cao-Wuhui/CVE-2025-69720)
 
 *More vulnerability disclosures are pending due to responsible disclosure timelines.
