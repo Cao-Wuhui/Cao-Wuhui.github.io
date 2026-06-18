@@ -40,6 +40,9 @@ My research interests lie in software engineering, security, and large language 
 # 💼 Experiences
 - *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd. *(Outstanding Intern, Top 20%)*
 
+# 👨‍🏫 Teaching
+- *2026 Spring*, Instructor, Java Programming (Course No. 32682101), [College of Continuing Education](https://en.szu.edu.cn/info/1017/1014.htm), Shenzhen University.
+
 # 🏅 Honors
 - [2025/2024/2023] SZU Master's Academic Scholarship: Special Class (2023), First Class (2024, 2025)
 - [2024] Huawei Developer of the Year – Pioneer Project Award *(only 15 awardees worldwide)*
