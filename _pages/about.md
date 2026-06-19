@@ -42,7 +42,7 @@ My research interests broadly span systems and software. Recently, I have been e
 
 # 👨‍🏫 Teaching
 **Instructor**
-- Java Programming, College of Computer Science and Software Engineering, Shenzhen University (Spring 2026)
+- Java Programming, [College of Continuing Education](https://en.szu.edu.cn/info/1017/1014.htm), Shenzhen University (Spring 2026)
 
 **Teaching Assistant**
 - Systems Programming, College of Computer Science and Software Engineering, Shenzhen University (2023 Fall, 2024 Spring, 2026 Spring)
