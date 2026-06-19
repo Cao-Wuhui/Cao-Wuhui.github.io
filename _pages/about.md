@@ -34,8 +34,8 @@ My research interests broadly span systems and software. Recently, I have been e
 
 # 📖 Educations
 - *2026.09 - (incoming)*, Ph.D., Computer Science and Technology, Nanjing University.
-- *2023.09 - 2026.07*, Master, Computer Science and Technology, Shenzhen University.
-- *2019.09 - 2023.07*, Bachelor, Computer Science and Technology (Honor), Shenzhen University.
+- *2023.09 - 2026.07*, M.S., Computer Science and Technology, Shenzhen University.
+- *2019.09 - 2023.07*, B.S., Computer Science and Technology (Honor), Shenzhen University.
 
 # 💼 Experiences
 - *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd. *(Outstanding Intern, Top 20%)*
