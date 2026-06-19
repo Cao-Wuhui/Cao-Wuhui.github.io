@@ -45,7 +45,7 @@ My research interests broadly span systems and software. Recently, I have been e
 - Java Programming, [College of Continuing Education](https://en.szu.edu.cn/info/1017/1014.htm), Shenzhen University (Spring 2026)
 
 **Teaching Assistant**
-- Systems Programming, College of Computer Science and Software Engineering, Shenzhen University (2023 Fall, 2024 Spring, 2026 Spring)
+- Systems Programming, College of Computer Science and Software Engineering, Shenzhen University (2026 Spring, 2024 Spring, 2023 Fall)
 - Design and Analysis of Algorithms, College of Computer Science and Software Engineering, Shenzhen University (2023 Spring)
 - Computer Systems (3), College of Computer Science and Software Engineering, Shenzhen University (2022 Fall)
 
