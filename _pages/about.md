@@ -81,9 +81,9 @@ Stay tuned.*
 - [11/2022] [My Story with the Intelligent Base](https://www.huawei.com/cn/huaweitech/industry-ecosystem/ascend-ai-developers) <br>
   Huawei official website.
 
-# 🌍 Visiting Record
+<!-- # 🌍 Visiting Record -->
 
-<div style="width: 600px; margin: 0 auto;">
+<div style="width: 600px; margin: 0 auto; display: none;">
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=n&d=l3UsKXXGpPWF-Pnbz4u6lLHStPnv8vHiVVCeCTWg-Wo&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 </div>
 
