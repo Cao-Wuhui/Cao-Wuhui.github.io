@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Commit conventions
+
+Do **not** add a `Co-Authored-By: Claude ...` trailer (or any AI attribution) to commit messages.
+
 ## What this is
 
 A single-page academic personal homepage built on the [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template (a fork of it). It is hosted on GitHub Pages and served at `https://cao-wuhui.github.io`. `upstream` points at `RayeRen/acad-homepage.github.io` for pulling template improvements; when merging from upstream, take framework/template changes only and ignore the upstream author's personal content.
