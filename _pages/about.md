@@ -38,6 +38,7 @@ Collaborations and discussions are warmly welcomed — feel free to reach out!
 - *2019.09 - 2023.07*, B.S., Computer Science and Technology (Honor), Shenzhen University.
 
 # 💼 Experiences
+- *2026.09 - Present*, Internship, ByteDance (Beijing Zitiao Network Technology Co., Ltd.).
 - *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd. *(Outstanding Intern, Top 20%)*
 
 # 👨‍🏫 Teaching
