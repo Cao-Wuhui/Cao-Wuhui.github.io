@@ -35,7 +35,7 @@ Collaborations and discussions are warmly welcomed — feel free to reach out!
 # 📖 Educations
 - *2026.09 - Present*, Ph.D., Computer Science and Technology, [School of Computer Science](https://cs.nju.edu.cn/cs_en/main.htm), Nanjing University.
 - *2023.09 - 2026.07*, M.S., Computer Science and Technology, [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), Shenzhen University.
-- *2019.09 - 2023.07*, B.S., Computer Science and Technology *(Honor)*, [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), Shenzhen University.
+- *2019.09 - 2023.07*, B.S., Computer Science and Technology *(Honor)*, College of Computer Science and Software Engineering, Shenzhen University.
 
 # 💼 Experiences
 - *2026.09 - Present*, Internship, ByteDance (Beijing Zitiao Network Technology Co., Ltd.).
