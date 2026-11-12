@@ -36,7 +36,7 @@ Previously, I received my B.S. and M.S. degrees from [Shenzhen University](https
 - *2019.09 - 2023.06*, B.S., Computer Science and Technology *(Honor)*, College of Computer Science and Software Engineering, Shenzhen University.
 
 # 💼 Experiences
-<!-- - *2026.09 - Present*, Internship, ByteDance (Beijing Zitiao Network Technology Co., Ltd.). -->
+- *2026.09 - Present*, Internship, ByteDance (Beijing Zitiao Network Technology Co., Ltd.).
 - *2025.06 - 2025.09*, Internship, Huawei Technologies Co., Ltd. *(Outstanding Intern, Top 20%)*
 
 # 👨‍🏫 Teaching
