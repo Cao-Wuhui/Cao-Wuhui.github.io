@@ -72,6 +72,8 @@ Previously, I received my B.S. and M.S. degrees from [Shenzhen University](https
 - [2020] National Undergraduate Mathematics Competition (Non-Mathematics Major), First Prize
 
 # 🐛 CVEs
+- [CVE-2026-111435](https://www.openeuler.openatom.cn/zh/security/cve/detail/?cveId=CVE-2026-111435&packageName=iSulad): Relative path traversal in openEuler iSulad.
+- [CVE-2026-111436](https://www.openeuler.openatom.cn/zh/security/cve/detail/?cveId=CVE-2026-111436&packageName=iSulad): Memory leak in openEuler iSulad.
 - [CVE-2025-69720](https://www.cve.org/CVERecord?id=CVE-2025-69720): Stack-based buffer overflow in GNU ncurses. [advisory](https://github.com/Cao-Wuhui/CVE-2025-69720)
 
 *More vulnerability disclosures are pending due to responsible disclosure timelines.
